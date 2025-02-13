@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hailuoai.com",
+        "moonshot.cn",
+        "liblib.art",
+        "zhipuai.cn",
+        "botvip.cn",
+        "tiangong.cn",
+        "doubao.com",
+        "marscode.cn",
+        "rwkv.com",
+        "chatglm.cn",
+        "baichuan-ai.com",
+        "xingyeai.com",
+        "rwkv.cn",
+        "minimaxi.com",
+        "xinghuo.xfyun.cn",
+        "hunyuan.tencent.com",
+        "qianwen.aliyun.com",
+        "yiyan.baidu.com",
+        "tongyi.aliyun.com"
+      ]
+    }
+  ]
+}
